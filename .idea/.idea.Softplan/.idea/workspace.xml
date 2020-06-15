@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ddcb15e-9b3b-4302-89de-3134cf704dd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CalculoJuros.Tests/ShowMeTheCodeTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculoJuros.Tests/TaxaJurosTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Softplan/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Softplan/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/ShowMeTheCodeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/ShowMeTheCodeService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/bin/Debug/netcoreapp2.2/CalculoJuros.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/bin/Debug/netcoreapp2.2/CalculoJuros.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/bin/Debug/netcoreapp2.2/CalculoJuros.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/bin/Debug/netcoreapp2.2/CalculoJuros.Api.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/CalculoJuros.Api.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/CalculoJuros.Api.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/CalculoJuros.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/CalculoJuros.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Controllers/CalculaJurosController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Controllers/CalculaJurosController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/ICalculaJurosService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/ICalculaJurosService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/TaxaJurosService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/TaxaJurosService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Softplan.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Softplan.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaxaJuros.Api/obj/Debug/netcoreapp2.2/TaxaJuros.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TaxaJuros.Api/obj/Debug/netcoreapp2.2/TaxaJuros.Api.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaxaJuros.Api/obj/Debug/netcoreapp2.2/TaxaJuros.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TaxaJuros.Api/obj/Debug/netcoreapp2.2/TaxaJuros.Api.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaxaJuros.Api/obj/Debug/netcoreapp2.2/TaxaJuros.Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TaxaJuros.Api/obj/Debug/netcoreapp2.2/TaxaJuros.Api.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaxaJuros.Api/obj/TaxaJuros.Api.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TaxaJuros.Api/obj/TaxaJuros.Api.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaxaJuros.Api/obj/TaxaJuros.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TaxaJuros.Api/obj/TaxaJuros.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaxaJuros.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TaxaJuros.Api/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaxaJuros.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TaxaJuros.Api/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,19 +23,15 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/TaxaJuros.Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/ShowMeTheCodeService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CalculoJuros.Tests/ShowMeTheCodeTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/CalculaJurosService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CalculoJuros.Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/ICalculaJurosService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CalculoJuros.Tests/CalculoJurosTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CalculoJuros.Api/Controllers/ShowMeTheCodeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CalculoJuros.Api/Controllers/CalculaJurosController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CalculoJuros.Tests/TaxaJurosTest.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CalculoJuros.Api/Startup.cs" />
         <option value="$PROJECT_DIR$/TaxaJuros.Api/Startup.cs" />
         <option value="$PROJECT_DIR$/TaxaJuros.Api/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/CalculoJuros.Api/Properties/launchSettings.json" />
@@ -63,6 +42,7 @@
         <option value="$PROJECT_DIR$/CalculoJuros.Tests/ShowMeTheCodeTest.cs" />
         <option value="$PROJECT_DIR$/CalculoJuros.Tests/TaxaJurosTest.cs" />
         <option value="$PROJECT_DIR$/CalculoJuros.Tests/CalculoJurosTest.cs" />
+        <option value="$PROJECT_DIR$/CalculoJuros.Api/Startup.cs" />
       </list>
     </option>
   </component>
@@ -134,6 +114,7 @@
       <workItem from="1591901279991" duration="1289000" />
       <workItem from="1592066487226" duration="373000" />
       <workItem from="1592241962110" duration="4452000" />
+      <workItem from="1592249230244" duration="557000" />
     </task>
     <servers />
   </component>

@@ -1,10 +1,5 @@
 using System.Threading.Tasks;
-using System;
-using System.Collections.Generic;
-using System.Net;
 using System.Net.Http;
-using System.Text;
-using  CalculoJuros.Api.Domain.Services;
 
 namespace CalculoJuros.Api.Domain.Services
 {

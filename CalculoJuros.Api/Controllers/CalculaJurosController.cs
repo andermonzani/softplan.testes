@@ -1,6 +1,4 @@
-﻿using System;
-using System.Linq;
-using CalculoJuros.Api.Domain.Services;
+﻿using CalculoJuros.Api.Domain.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
