@@ -19,18 +19,6 @@ namespace CalculoJuros.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSwaggerGen(s =>
-            {
-                s.SwaggerDoc("v1",
-                    new OpenApiInfo
-                    {
-                        Title = "Calcular Juros Compostos",
-                        Version = "v1",
-                        Description = "API para calcular juros compostos.",
-
-                    });
-            });
-            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddScoped<ICalculaJurosService, CalculaJurosService>();

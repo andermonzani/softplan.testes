@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ddcb15e-9b3b-4302-89de-3134cf704dd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Controllers/CalculaJurosController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Controllers/CalculaJurosController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/ICalculaJurosService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/ICalculaJurosService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/TaxaJurosService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Domain/Services/TaxaJurosService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/bin/Debug/netcoreapp2.2/CalculoJuros.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/bin/Debug/netcoreapp2.2/CalculoJuros.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/bin/Debug/netcoreapp2.2/CalculoJuros.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/bin/Debug/netcoreapp2.2/CalculoJuros.Api.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/CalculoJuros.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/CalculoJuros.Tests.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,6 +117,7 @@
       <workItem from="1592066487226" duration="373000" />
       <workItem from="1592241962110" duration="4452000" />
       <workItem from="1592249230244" duration="557000" />
+      <workItem from="1592250768795" duration="302000" />
     </task>
     <servers />
   </component>
