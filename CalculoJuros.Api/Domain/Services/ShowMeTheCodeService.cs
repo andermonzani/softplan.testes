@@ -4,7 +4,7 @@ namespace CalculoJuros.Api.Domain.Services
     {
         public string PegarUrl()
         {
-            return "https://github.com/andermonzani/TaxaJuros";
+            return "https://github.com/andermonzani/softplan.testes";
         }
     }
 }

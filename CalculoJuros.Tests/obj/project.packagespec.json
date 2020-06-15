@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\repository\\softplan.testes\\CalculoJuros.Tests\\CalculoJuros.Tests.csproj",
+    "projectName": "CalculoJuros.Tests",
+    "projectPath": "D:\\repository\\softplan.testes\\CalculoJuros.Tests\\CalculoJuros.Tests.csproj",
+    "outputPath": "D:\\repository\\softplan.testes\\CalculoJuros.Tests\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "D:\\repository\\softplan.testes\\CalculoJuros.Api\\CalculoJuros.Api.csproj": {
+            "projectPath": "D:\\repository\\softplan.testes\\CalculoJuros.Api\\CalculoJuros.Api.csproj"
+          },
+          "D:\\repository\\softplan.testes\\TaxaJuros.Api\\TaxaJuros.Api.csproj": {
+            "projectPath": "D:\\repository\\softplan.testes\\TaxaJuros.Api\\TaxaJuros.Api.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.0.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

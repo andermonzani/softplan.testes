@@ -12079,11 +12079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repository\\softplan\\Softplan\\TaxaJuros.Api\\TaxaJuros.Api.csproj",
+      "projectUniqueName": "D:\\repository\\softplan.testes\\TaxaJuros.Api\\TaxaJuros.Api.csproj",
       "projectName": "TaxaJuros.Api",
-      "projectPath": "D:\\repository\\softplan\\Softplan\\TaxaJuros.Api\\TaxaJuros.Api.csproj",
+      "projectPath": "D:\\repository\\softplan.testes\\TaxaJuros.Api\\TaxaJuros.Api.csproj",
       "packagesPath": "C:\\Users\\anderson.monzani\\.nuget\\packages\\",
-      "outputPath": "D:\\repository\\softplan\\Softplan\\TaxaJuros.Api\\obj\\",
+      "outputPath": "D:\\repository\\softplan.testes\\TaxaJuros.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

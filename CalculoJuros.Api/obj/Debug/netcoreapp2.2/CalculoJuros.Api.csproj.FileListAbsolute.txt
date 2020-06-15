@@ -12,3 +12,17 @@ D:\repository\softplan\Softplan\CalculoJuros.Api\obj\Debug\netcoreapp2.2\Calculo
 D:\repository\softplan\Softplan\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.RazorTargetAssemblyInfo.cache
 D:\repository\softplan\Softplan\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.dll
 D:\repository\softplan\Softplan\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.pdb
+D:\repository\softplan.testes\CalculoJuros.Api\bin\Debug\netcoreapp2.2\CalculoJuros.Api.deps.json
+D:\repository\softplan.testes\CalculoJuros.Api\bin\Debug\netcoreapp2.2\CalculoJuros.Api.runtimeconfig.json
+D:\repository\softplan.testes\CalculoJuros.Api\bin\Debug\netcoreapp2.2\CalculoJuros.Api.runtimeconfig.dev.json
+D:\repository\softplan.testes\CalculoJuros.Api\bin\Debug\netcoreapp2.2\CalculoJuros.Api.dll
+D:\repository\softplan.testes\CalculoJuros.Api\bin\Debug\netcoreapp2.2\CalculoJuros.Api.pdb
+D:\repository\softplan.testes\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.csprojAssemblyReference.cache
+D:\repository\softplan.testes\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.csproj.CoreCompileInputs.cache
+D:\repository\softplan.testes\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.RazorAssemblyInfo.cache
+D:\repository\softplan.testes\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.RazorAssemblyInfo.cs
+D:\repository\softplan.testes\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.AssemblyInfoInputs.cache
+D:\repository\softplan.testes\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.AssemblyInfo.cs
+D:\repository\softplan.testes\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.RazorTargetAssemblyInfo.cache
+D:\repository\softplan.testes\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.dll
+D:\repository\softplan.testes\CalculoJuros.Api\obj\Debug\netcoreapp2.2\CalculoJuros.Api.pdb

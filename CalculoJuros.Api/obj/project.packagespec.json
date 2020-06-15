@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\repository\\softplan\\Softplan\\CalculoJuros.Api\\CalculoJuros.Api.csproj",
+    "projectUniqueName": "D:\\repository\\softplan.testes\\CalculoJuros.Api\\CalculoJuros.Api.csproj",
     "projectName": "CalculoJuros.Api",
-    "projectPath": "D:\\repository\\softplan\\Softplan\\CalculoJuros.Api\\CalculoJuros.Api.csproj",
-    "outputPath": "D:\\repository\\softplan\\Softplan\\CalculoJuros.Api\\obj\\",
+    "projectPath": "D:\\repository\\softplan.testes\\CalculoJuros.Api\\CalculoJuros.Api.csproj",
+    "outputPath": "D:\\repository\\softplan.testes\\CalculoJuros.Api\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

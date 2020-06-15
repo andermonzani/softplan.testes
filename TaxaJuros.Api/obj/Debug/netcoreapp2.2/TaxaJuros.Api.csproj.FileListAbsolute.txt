@@ -12,3 +12,17 @@ D:\repository\softplan\Softplan\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.
 D:\repository\softplan\Softplan\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.RazorTargetAssemblyInfo.cache
 D:\repository\softplan\Softplan\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.dll
 D:\repository\softplan\Softplan\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.pdb
+D:\repository\softplan.testes\TaxaJuros.Api\bin\Debug\netcoreapp2.2\TaxaJuros.Api.deps.json
+D:\repository\softplan.testes\TaxaJuros.Api\bin\Debug\netcoreapp2.2\TaxaJuros.Api.runtimeconfig.json
+D:\repository\softplan.testes\TaxaJuros.Api\bin\Debug\netcoreapp2.2\TaxaJuros.Api.runtimeconfig.dev.json
+D:\repository\softplan.testes\TaxaJuros.Api\bin\Debug\netcoreapp2.2\TaxaJuros.Api.dll
+D:\repository\softplan.testes\TaxaJuros.Api\bin\Debug\netcoreapp2.2\TaxaJuros.Api.pdb
+D:\repository\softplan.testes\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.csprojAssemblyReference.cache
+D:\repository\softplan.testes\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.csproj.CoreCompileInputs.cache
+D:\repository\softplan.testes\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.RazorAssemblyInfo.cache
+D:\repository\softplan.testes\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.RazorAssemblyInfo.cs
+D:\repository\softplan.testes\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.AssemblyInfoInputs.cache
+D:\repository\softplan.testes\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.AssemblyInfo.cs
+D:\repository\softplan.testes\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.RazorTargetAssemblyInfo.cache
+D:\repository\softplan.testes\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.dll
+D:\repository\softplan.testes\TaxaJuros.Api\obj\Debug\netcoreapp2.2\TaxaJuros.Api.pdb
