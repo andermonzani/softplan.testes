@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ddcb15e-9b3b-4302-89de-3134cf704dd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CalculoJuros.Tests/Fixtures/TestContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Api.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/TaxaJuros.Api.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Api/obj/Debug/netcoreapp2.2/CalculoJuros.Api.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/CalculoJuros.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/CalculoJuros.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/CalculoJurosTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/Tests/CalculoJurosTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/ShowMeTheCodeTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/Tests/ShowMeTheCodeTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/TaxaJurosTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/Tests/TaxaJurosTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/CalculoJuros.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/CalculoJuros.Tests.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/CalculoJuros.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/CalculoJuros.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/CalculoJuros.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/CalculoJuros.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/CalculoJuros.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/CalculoJuros.Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/Tests/CalculoJurosTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/Tests/CalculoJurosTest.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +120,7 @@
       <workItem from="1592241962110" duration="4452000" />
       <workItem from="1592249230244" duration="557000" />
       <workItem from="1592250768795" duration="363000" />
-      <workItem from="1592277755238" duration="2726000" />
+      <workItem from="1592277755238" duration="3430000" />
     </task>
     <servers />
   </component>

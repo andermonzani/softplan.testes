@@ -37,7 +37,7 @@ namespace CalculoJuros.Tests
         [InlineData(10000, 12, 0.05, 1060.08)]
         [InlineData(30000, 24, 4, 76898.92)]
         [InlineData(5000, 36, 1.99, 10163.14)]
-        public void calculo_juros_tests(decimal valorInicial, int meses, double taxaJuros, decimal valorEsperado)
+        public void calculo_juros_teory_tests_success(decimal valorInicial, int meses, double taxaJuros, decimal valorEsperado)
         {
             decimal valor = _calculaJurosService.CalcularJuros(valorInicial, meses, taxaJuros);
             Assert.NotEqual(valorEsperado, valor);
