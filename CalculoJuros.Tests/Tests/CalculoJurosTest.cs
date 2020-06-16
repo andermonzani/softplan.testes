@@ -1,17 +1,22 @@
 using System;
-using System.ComponentModel;
 using Xunit;
 using CalculoJuros.Api.Domain.Services;
+using System.Threading.Tasks;
+using CalculoJuros.Tests.Fixtures;
+using FluentAssertions;
+using System.Net; 
 
 namespace CalculoJuros.Tests
 {
     public class CalculoJurosTest
     {
+        private readonly TestContext _testContext;
         private readonly ICalculaJurosService _calculaJurosService;
 
         public CalculoJurosTest()
         {
             _calculaJurosService = new CalculaJurosService();
+            _testContext = new TestContext();
         }
         
         [Fact]
@@ -36,6 +41,22 @@ namespace CalculoJuros.Tests
         {
             decimal valor = _calculaJurosService.CalcularJuros(valorInicial, meses, taxaJuros);
             Assert.NotEqual(valorEsperado, valor);
+        }
+        
+        [Fact]
+        public async Task calculo_juros_integration_should_be_success()
+        {
+            var response = await _testContext.Client.GetAsync("api/taxajuros");
+            
+            response.EnsureSuccessStatusCode();
+
+            string taxaJuros = await response.Content.ReadAsStringAsync();
+
+            double valorTaxaJuros = double.Parse(taxaJuros.Replace('.', ','));
+            
+            decimal valor = _calculaJurosService.CalcularJuros(100, 5, valorTaxaJuros);
+            
+            Assert.Equal(Convert.ToDecimal(105.10), valor);
         }
     }
 }
