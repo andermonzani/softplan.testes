@@ -4,6 +4,11 @@
     <list default="true" id="4ddcb15e-9b3b-4302-89de-3134cf704dd1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Softplan/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/Tests/CalculoJurosTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/Tests/CalculoJurosTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/bin/Debug/netcoreapp2.2/CalculoJuros.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/CalculoJuros.Api/Controllers/ShowMeTheCodeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CalculoJuros.Api/Controllers/CalculaJurosController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CalculoJuros.Tests/Tests/CalculoJurosTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CalculoJuros.Tests/obj/Debug/netcoreapp2.2/CalculoJuros.Tests.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.CalculoJuros.Api">
+  <component name="RunManager" selected="333b6a0b-31ab-43db-ad45-7525d10ff8bc">
     <configuration name="CalculoJuros.Api" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/CalculoJuros.Api/CalculoJuros.Api.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
@@ -121,6 +127,7 @@
       <workItem from="1592249230244" duration="557000" />
       <workItem from="1592250768795" duration="363000" />
       <workItem from="1592277755238" duration="3430000" />
+      <workItem from="1592307635610" duration="4021000" />
     </task>
     <servers />
   </component>
